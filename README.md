@@ -1,6 +1,6 @@
 # Adventure-Game-Master
 Adventure Game Master is an emotion-driven text adventure game that creates personalized storytelling experiences.
-
+```
 ## Features
 
 - Turn-based storytelling with emotional branching
@@ -79,3 +79,4 @@ Each track was designed to match specific emotional tones such as fear, courage,
 - pygame for music playback
 - Mubert AI Music Generator for all background music
 - ChatGPT, Gemini, and Claude as collaborative coding development assistants
+```
