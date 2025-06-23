@@ -18,7 +18,7 @@ adventure_game/
 ├── emotion_analyzer.py        # Emotion classification based on user input
 ├── music_player.py            # Music playback logic using pygame
 ├── game_state.py              # Game state management (turns, history, etc.)
-├── .env                       # Optional environment config (not required)
+├── .env                       # You must create your own .env and fill in your GOOGLE_API_KEY
 ├── __init__.py                # Marks this folder as a Python package
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # Project overview and instructions
