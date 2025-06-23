@@ -35,10 +35,13 @@ adventure_game/
 ## How to Run Locally
 
 1. Clone the repo  
-2. Create a virtual environment *(optional but recommended)*  
+2. Create a virtual environment *(optional but recommended)*
 3. Install dependencies: 
    
    pip install -r requirements.txt
+
+IMPORTANT: To run this project, You must create a .env file in the root folder with the following content:
+GOOGLE_API_KEY=your_api_key_here
 
 4. Run the ADK web interface:
    
